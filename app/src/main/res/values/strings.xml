@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectAkhirPAM</string>
+    <string name="nama">Nama customer</string>
+    <string name="telepon">Telepon Customer</string>
+    <string name="Berat_barang">Berat barang</string>
+    <string name="Status_pengiriman">Status Pengiriman</string>
+    <string name="nama_kurir">Nama Kurir</string>
+    <string name="btn_next">Masuk</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Kembali</string>
+</resources>
