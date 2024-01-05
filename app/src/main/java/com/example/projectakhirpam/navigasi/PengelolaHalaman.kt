@@ -1,4 +1,4 @@
-package com.example.projectakhirpam
+package com.example.projectakhirpam.navigasi
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
@@ -22,6 +22,11 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.projectakhirpam.ContactViewModel
+import com.example.projectakhirpam.HalamanDetail
+import com.example.projectakhirpam.HalamanForm
+import com.example.projectakhirpam.HalamanHome
+import com.example.projectakhirpam.R
 
 enum class PengelolaHalaman {
     Home,
