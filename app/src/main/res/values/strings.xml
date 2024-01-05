@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ProjectAkhirPAM</string>
-    <string name="nama">Nama customer</string>
+    <string name="nama">Nama Customer</string>
     <string name="telepon">Telepon Customer</string>
     <string name="Berat_barang">Berat barang</string>
     <string name="Status_pengiriman">Status Pengiriman</string>
